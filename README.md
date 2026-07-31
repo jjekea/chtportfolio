@@ -2,8 +2,7 @@
 
 A static digital portfolio for the proposed graduate course *HIS 5093: Cultural
 Heritage Tourism*, showcasing the syllabus, signature assignment, and teaching
-statement. No build step or framework — plain HTML/CSS/JS, deployable as-is
-(e.g., via GitHub Pages).
+statement.
 
 ## Structure
 
