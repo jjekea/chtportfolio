@@ -2,7 +2,7 @@
 
 A static digital portfolio for the proposed graduate course *HIS 5093: Cultural
 Heritage Tourism*, showcasing the syllabus, signature assignment, and teaching
-statement. This site was constructed and designed using Claude Code.
+statement. This website was built using Claude Code.
 
 ## Structure
 
