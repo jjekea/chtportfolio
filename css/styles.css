@@ -688,6 +688,38 @@ li { margin-bottom: 0.4em; }
 }
 .platform-card ul { font-size: 0.9rem; padding-left: 1.1em; margin: 0; }
 
+/* ---------------- Essay (teaching statement) ---------------- */
+
+.essay {
+  max-width: 68ch;
+  margin: 0 auto;
+}
+
+.essay p {
+  font-size: 1.07rem;
+  color: var(--brown-900);
+  margin-bottom: 1.4em;
+}
+
+.pull-quote {
+  font-family: var(--font-display);
+  font-style: italic;
+  font-weight: 500;
+  font-size: 1.45rem;
+  line-height: 1.4;
+  color: var(--orange-700);
+  border-left: 4px solid var(--orange-600);
+  padding: 0.2rem 0 0.2rem 1.4rem;
+  margin: 2.75rem 0;
+}
+
+.essay .signoff {
+  margin-top: 2.5rem;
+  font-family: var(--font-display);
+  font-style: italic;
+  color: var(--brown-700);
+}
+
 /* ---------------- Placeholder / coming soon ---------------- */
 
 .placeholder-panel {
