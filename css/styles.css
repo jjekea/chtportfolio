@@ -215,6 +215,12 @@ li { margin-bottom: 0.4em; }
   color: var(--brown-700);
 }
 
+.hero .site-note {
+  margin-top: 0.5rem;
+  font-size: 0.85rem;
+  color: var(--brown-500);
+}
+
 /* travel-route divider */
 .route-divider {
   display: flex;
