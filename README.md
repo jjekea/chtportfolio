@@ -17,7 +17,7 @@ assets/favicon.svg            Compass-rose site icon/logo
 ```
 
 Each page repeats its own header/nav/footer markup (no build tooling), so
-editing site-wide nav text means updating it in all four `.html` files.
+editing site-wide nav text means updating it in all four `.html` files. This site was designed and constructed using Claude Code.
 
 ## Design
 
@@ -26,23 +26,6 @@ green, gold) defined as CSS variables at the top of `css/styles.css`. Fonts
 are loaded from Google Fonts: **Fraunces** for headings, **Karla** for body
 text. Dashed "route divider" lines and a compass motif nod to travel/mapping
 without leaning on stock imagery.
-
-## Updating content later
-
-- **Teaching statement**: replace the `.placeholder-panel` block in
-  `teaching-statement.html` with the finished statement, structured with
-  `<section class="content-section">` blocks like the other pages (see
-  `signature-assignment.html` for a simple example). Update the status badge
-  on `index.html`'s Teaching Statement card from "Coming soon" to "Draft" or
-  remove the badge once final.
-- **Syllabus / signature assignment edits**: content lives directly in the
-  HTML — search for the text you're changing and edit in place. Both pages
-  currently show an amber "draft" notice near the top
-  (`<div class="draft-note">`); delete that block once the documents are
-  finalized.
-- **Weekly schedule**: each week in `syllabus.html` is a `<details class="week-item">`
-  block inside `#schedule .schedule-list`. Copy an existing week's markup to
-  add one, or edit topics/readings/assignments inside an existing block.
 
 ## Local preview
 
