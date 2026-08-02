@@ -17,7 +17,9 @@ assets/favicon.svg            Compass-rose site icon/logo
 ```
 
 Each page repeats its own header/nav/footer markup (no build tooling), so
-editing site-wide nav text means updating it in all four `.html` files. This site was designed and constructed using Claude Code.
+editing site-wide nav text means updating it in all four `.html` files. 
+
+This site was designed and constructed using Claude Code.
 
 ## Design
 
