@@ -2,7 +2,7 @@
 
 A static digital portfolio for the proposed graduate course *HIS 5093: Cultural
 Heritage Tourism*, showcasing the syllabus, signature assignment, and teaching
-statement.
+statement. This site was constructed and designed using Claude Code.
 
 ## Structure
 
@@ -19,7 +19,7 @@ assets/favicon.svg            Compass-rose site icon/logo
 Each page repeats its own header/nav/footer markup (no build tooling), so
 editing site-wide nav text means updating it in all four `.html` files. 
 
-This site was designed and constructed using Claude Code.
+
 
 ## Design
 
